@@ -4,7 +4,7 @@ import hoistNonReactStatic from 'hoist-non-react-statics';
 
 import _ from 'lodash';
 
-import tachyonsJs from 'tachyons';
+import tachyonsJs from 'tachyons-js';
 import styled, { css } from 'styled-components';
 
 const cssify = (styles, theme) => _.map(styles, (rules, selector) => {
