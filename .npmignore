@@ -20,9 +20,6 @@ yarn-debug.log*
 yarn-error.log*
 yarn.lock*
 package-lock.json
-/build/index.js
-/build*
-/build/*
 # Editor/IDE
 .idea
 packages/api/etc/
