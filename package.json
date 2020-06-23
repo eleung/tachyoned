@@ -1,6 +1,6 @@
 {
   "name": "tachyoned",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HOC to add tachyons support (via props) to React components.",
   "main": "build/index.js",
   "scripts": {
