@@ -1,0 +1,27 @@
+{
+  "name": "tachyoned",
+  "version": "1.0.0",
+  "description": "HOC to add tachyons support (via props) to React components.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "babel src -d build"
+  },
+  "author": "Edmond Leung",
+  "license": "ISC",
+  "engines": {
+    "node": ">=8",
+    "npm": ">=3"
+  },
+  "dependencies": {
+    "hoist-non-react-statics": "3.3.2",
+    "lodash": "4.17.15",
+    "react": "16.13.1",
+    "styled-components": "5.1.1",
+    "tachyons": "4.12.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.10.3",
+    "@babel/core": "7.10.3",
+    "@babel/preset-env": "7.10.3"
+  }
+}
